@@ -248,7 +248,7 @@ namespace mydo
                         object_fun_analysis(statment);
                         break;
                     default:
-                        constractor_class(statment);
+                      //  constractor_class(statment);
 
 
                     break;
@@ -367,10 +367,10 @@ namespace mydo
 
 
 
-            // var map2 = new Dictionary<string, string> { { "cin", "Scanner sc=new Scanner(System.in);" } };
+            var map2 = new Dictionary<string, string> { { "cin", "Scanner sc=new Scanner(System.in);" } };
 
-            //  var lines = map2.Select(kvp => kvp.Value.ToString()); 
-            //    string newstr = string.Join(Environment.NewLine, lines);
+             var lines = map2.Select(kvp => kvp.Value.ToString()); 
+                string newstr = string.Join(Environment.NewLine, lines);
 
 
             //string new_statment = "";
@@ -428,10 +428,24 @@ namespace mydo
                 }
 
             }
-            if ( live_code == false )
-                File.AppendAllText("e:\\java.txt", vname + "\r\n");
-            else
-                txtresult.Text = txtresult.Text + vname + "\r\n";
+
+                if ( !(txtresult.Text.Contains("Scann")) ) {
+                if ( live_code == false )
+                 File.AppendAllText("e:\\java.txt", newstr + "\r\n" + vname + "\r\n"); 
+                else
+                    txtresult.Text = txtresult.Text + newstr + "\r\n" + vname + "\r\n";
+                }
+                else {
+                    if ( live_code == false )
+                    {
+
+                        File.AppendAllText("e:\\java.txt", vname + "\r\n");
+
+                    }
+                    else
+                        txtresult.Text = txtresult.Text + vname + "\r\n";
+
+                  } 
 
 
 

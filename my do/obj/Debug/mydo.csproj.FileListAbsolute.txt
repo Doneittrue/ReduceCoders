@@ -18,6 +18,3 @@ D:\C# ITI\C#work\mydo\my do\obj\Debug\my do.exe
 D:\C# ITI\C#work\mydo\my do\obj\Debug\my do.pdb
 D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.csprojResolveAssemblyReference.cache
 D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Form2.resources
-D:\GIT\ReduceCoders\my do\bin\Debug\my do.exe.config
-D:\GIT\ReduceCoders\my do\obj\Debug\my do.exe
-D:\GIT\ReduceCoders\my do\obj\Debug\my do.pdb

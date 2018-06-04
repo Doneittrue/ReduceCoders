@@ -1,0 +1,13 @@
+E:\C# ITI\C#work\my do\my do\bin\Debug\my do.exe.config
+E:\C# ITI\C#work\my do\my do\obj\Debug\my do.csprojResolveAssemblyReference.cache
+E:\C# ITI\C#work\my do\my do\obj\Debug\my_do.Form1.resources
+E:\C# ITI\C#work\my do\my do\obj\Debug\my_do.Properties.Resources.resources
+E:\C# ITI\C#work\my do\my do\obj\Debug\my do.csproj.GenerateResource.Cache
+E:\C# ITI\C#work\my do\my do\bin\Debug\my do.exe
+E:\C# ITI\C#work\my do\my do\bin\Debug\my do.pdb
+E:\C# ITI\C#work\my do\my do\obj\Debug\my do.exe
+E:\C# ITI\C#work\my do\my do\obj\Debug\my do.pdb
+E:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Form1.resources
+E:\C# ITI\C#work\mydo\my do\obj\Debug\my_do.Properties.Resources.resources
+E:\C# ITI\C#work\mydo\my do\obj\Debug\my do.csproj.GenerateResource.Cache
+E:\C# ITI\C#work\mydo\my do\bin\Debug\my do.exe.config

@@ -1,0 +1,23 @@
+E:\C# ITI\C#work\mydo\my do\bin\Debug\my do.exe.config
+E:\C# ITI\C#work\mydo\my do\bin\Debug\my do.exe
+E:\C# ITI\C#work\mydo\my do\bin\Debug\my do.pdb
+E:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Form1.resources
+E:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Properties.Resources.resources
+E:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.csproj.GenerateResource.Cache
+E:\C# ITI\C#work\mydo\my do\obj\Debug\my do.exe
+E:\C# ITI\C#work\mydo\my do\obj\Debug\my do.pdb
+E:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.csprojResolveAssemblyReference.cache
+D:\C# ITI\C#work\mydo\my do\bin\Debug\my do.exe.config
+D:\C# ITI\C#work\mydo\my do\bin\Debug\my do.exe
+D:\C# ITI\C#work\mydo\my do\bin\Debug\my do.pdb
+D:\C# ITI\C#work\mydo\my do\bin\Debug\AutocompleteMenu.pdb
+D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Form1.resources
+D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Properties.Resources.resources
+D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.csproj.GenerateResource.Cache
+D:\C# ITI\C#work\mydo\my do\obj\Debug\my do.exe
+D:\C# ITI\C#work\mydo\my do\obj\Debug\my do.pdb
+D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.csprojResolveAssemblyReference.cache
+D:\C# ITI\C#work\mydo\my do\obj\Debug\mydo.Form2.resources
+D:\GIT\ReduceCoders\my do\bin\Debug\my do.exe.config
+D:\GIT\ReduceCoders\my do\obj\Debug\my do.exe
+D:\GIT\ReduceCoders\my do\obj\Debug\my do.pdb
